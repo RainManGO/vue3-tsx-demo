@@ -1,4 +1,12 @@
-# vue-jsx
+<!--
+ * @Description: 
+ * @Author: ZY
+ * @Date: 2020-12-11 15:27:50
+ * @LastEditors: ZY
+ * @LastEditTime: 2020-12-14 09:26:44
+-->
+# vue3-tsx-demo
+
 
 ## Project setup
 ```
@@ -32,5 +40,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# axios-mapper
-# vue3-tsx-demo
